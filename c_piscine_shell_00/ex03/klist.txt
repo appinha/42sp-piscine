@@ -1,0 +1,5 @@
+Credentials cache: API:9AF512FB-2B3A-4E44-90CC-043BB581C884
+        Principal: apuchill@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 18 16:20:10 2019  Nov 25 16:20:10 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
