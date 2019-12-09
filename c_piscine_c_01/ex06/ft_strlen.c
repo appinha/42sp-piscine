@@ -3,22 +3,21 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: apuchill <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: apuchill <apuchill@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/11/25 23:48:44 by apuchill          #+#    #+#             */
-/*   Updated: 2019/11/25 23:48:47 by apuchill         ###   ########.fr       */
+/*   Updated: 2019/12/05 23:12:08 by apuchill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 int		ft_strlen(char *str)
 {
-	int counter;
+	int c;
 
-	counter = 0;
-	while (*str != '\0')
+	c = 0;
+	while (str[c] != '\0')
 	{
-		counter++;
-		str++;
+		c++;
 	}
-	return (counter);
+	return (c);
 }
