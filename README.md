@@ -1,6 +1,6 @@
 # C Piscine @ 42saopaulo
 
-This repository contains coding developed at 42saopaulo's C bootcamp (also known as `Piscine`), from 18/nov/2019 to 13/dec/2019.
+This repository contains coding developed at [42saopaulo's](https://www.42sp.org.br/) C bootcamp (also known as `Piscine`), from 18/nov/2019 to 13/dec/2019.
 
 ## About 42
 
@@ -10,7 +10,9 @@ This repository contains coding developed at 42saopaulo's C bootcamp (also known
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
 
-## Skills developed at the C Piscine
+[![Photo of a 42saopaulo's lab](42saopaulo.jpg)](https://www.42sp.org.br/)
+
+## Skills developed at C Piscine
 
 ### Hard-skills
 	# C Language
@@ -45,7 +47,7 @@ This repository contains coding developed at 42saopaulo's C bootcamp (also known
 
 ## Curriculum
 
-The table below presents the C Piscine's curriculum in the chronological order in which it was completed by me - subject's order and corresponding attained level may vary among students.
+The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
 
 |#	|SUBJECT							|LANGUAGE	|DURATION		|EXPERIENCE	|STATUS						|ATTAINED LEVEL	|
 |:-:|:--								|:-:		|--:			|--:		|--:						|:--			|
